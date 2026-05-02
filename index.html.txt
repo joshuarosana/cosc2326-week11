@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>COSC2326 - Week 11</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f0f4f8; text-align: center; padding: 60px; }
+    h1 { color: #2c3e50; font-size: 2.5em; }
+    p { font-size: 1.2em; color: #555; }
+    .badge { background: #3498db; color: white; padding: 10px 20px; border-radius: 8px; display: inline-block; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <h1>Josh [Rosana]</h1>
+  <p>COSC2326 – Introduction to Enterprise Computing</p>
+  <p>Week 11 – CI/CD Pipeline Deployment</p>
+  <div class="badge">Deployed via AWS CodePipeline ✅</div>
+</body>
+</html>
