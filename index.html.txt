@@ -11,7 +11,7 @@
   </style>
 </head>
 <body>
-  <h1>Josh [Rosana]</h1>
+  <h1>Joshua Rosana</h1>
   <p>COSC2326 – Introduction to Enterprise Computing</p>
   <p>Week 11 – CI/CD Pipeline Deployment</p>
   <div class="badge">Deployed via AWS CodePipeline ✅</div>
